@@ -1,9 +1,0 @@
-trading-alert-bot/
-├── Dockerfile        ← QUI
-├── requirements.txt
-├── README.md
-└── app/
-    ├── main.py
-    ├── news_monitor.py
-    ├── price_monitor.py
-    └── rules_engine.py
